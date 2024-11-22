@@ -15,6 +15,23 @@ Brain tumor detection is a critical task in medical imaging, and early detection
 ## Results
 The model achieves high accuracy and provides clear visualizations of tumor detections on test data. Sample outputs include annotated medical scans with bounding boxes around detected tumors.
 
+## Coronal view
+![image](https://github.com/user-attachments/assets/ec0465fa-5a9b-4c3d-b299-f50008adb2f9)
+
+## Sagittal view
+![image](https://github.com/user-attachments/assets/34f2bc8f-fa34-41b7-b8fe-5023def6fced)
+
+## Axial view
+![image](https://github.com/user-attachments/assets/8fd978f3-e4b4-44d9-8c21-834e6021fb19)
+
+
+## Final Result
+![image](https://github.com/user-attachments/assets/d0b7b9f3-9d36-4fc9-997b-f5f251de6ccd)
+
+
+
+
+
 ## Algorithms Used
 ### YOLOv8 (You Only Look Once, Version 8)
 - A state-of-the-art object detection model optimized for speed and accuracy.
