@@ -16,17 +16,19 @@ Brain tumor detection is a critical task in medical imaging, and early detection
 The model achieves high accuracy and provides clear visualizations of tumor detections on test data. Sample outputs include annotated medical scans with bounding boxes around detected tumors.
 
 ## Coronal view
-![image](https://github.com/user-attachments/assets/ec0465fa-5a9b-4c3d-b299-f50008adb2f9)
+![image](https://github.com/user-attachments/assets/5f8d35a1-efd1-4acc-ad8f-bbd2f35064be)
+
 
 ## Sagittal view
-![image](https://github.com/user-attachments/assets/34f2bc8f-fa34-41b7-b8fe-5023def6fced)
+![image](https://github.com/user-attachments/assets/07a2f1d8-c61e-4bc9-a1d3-d62c6acfb7fc)
+
 
 ## Axial view
-![image](https://github.com/user-attachments/assets/8fd978f3-e4b4-44d9-8c21-834e6021fb19)
+![image](https://github.com/user-attachments/assets/385d46ed-d0e5-4ca2-b3d9-4a78c48b10f2)
 
 
 ## Final Result
-![image](https://github.com/user-attachments/assets/d0b7b9f3-9d36-4fc9-997b-f5f251de6ccd)
+![image](https://github.com/user-attachments/assets/54d5b57e-c02f-4ea7-9fda-f7fec4c5d39e)
 
 
 
